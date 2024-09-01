@@ -1,0 +1,5 @@
+inquirer
+openai
+qdrant-client
+pyfiglet
+termcolor
