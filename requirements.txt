@@ -1,5 +1,5 @@
 inquirer
-openai
+google-generativeai
 qdrant-client
 pyfiglet
 termcolor
